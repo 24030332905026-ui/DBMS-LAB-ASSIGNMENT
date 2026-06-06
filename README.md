@@ -14,7 +14,7 @@ This repository contains Database Management System (DBMS) laboratory practicals
 - Views
 - Stored Procedures
 - Triggers
-- Lab Assignments
+
 
 ## Tools Used
 - MySQL Workbench
