@@ -28,3 +28,9 @@ WHERE Department = 'Computer';
 -- Step 4: Display View
 
 SELECT * FROM ComputerStudents;
+
+
+Output:-
+Name | Department 
+Jay. | Computer 
+Priya | Computer 
