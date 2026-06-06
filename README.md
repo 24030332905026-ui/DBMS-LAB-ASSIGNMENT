@@ -22,7 +22,7 @@ This repository contains Database Management System (DBMS) laboratory practicals
 - GitHub
 
 
-# 🐬 MySQL Mastery - Complete Learning Repository
+# 🐬 DBMS Learning-Journey - Complete Learning Repository
 
 A comprehensive, structured learning resource for mastering MySQL from fundamentals to advanced concepts. This repository is organized according to a university-level database curriculum, covering everything from basic DDL commands to advanced SQL concepts.
 
